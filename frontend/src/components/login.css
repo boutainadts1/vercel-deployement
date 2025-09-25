@@ -1,0 +1,9 @@
+/* Login.css */
+
+.logo-img {
+  width: 7rem; /* 28 in Tailwind = 7rem */
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  /* Box shadow */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
